@@ -1,4 +1,0 @@
-anthropic>=0.40.0
-pyautogui
-SpeechRecognition>=3.10.0
-pyaudio>=0.2.14
